@@ -1,7 +1,7 @@
 # Aplikasi Web "Known"
 ![full_logo_blk](https://user-images.githubusercontent.com/60083946/111310174-5c2f9680-868f-11eb-9b66-655f14394381.png)
 
-# Anggota
+## Anggota
 <table>
     <thead>
         <tr>
@@ -39,7 +39,13 @@
 **Known** merupakan social group platform yang memungkinkan sejumlah pengguna untuk membuat sejumlah postingan, update status, foto dan banyak lagi. Known merupakan open source project yang dapat digunakan untuk membangun situs komunitas yang lengkap, atau blog untuk satu pengguna.
 
 **Known** memiliki fitur antara lain :
-
+- Bookmarklet
+- Tags
+- Responsive layout
+- Email notification
+- Multi-author
+- HTML & Rich Text Editor
+- Static Pages
 
 ## Instalasi
 
