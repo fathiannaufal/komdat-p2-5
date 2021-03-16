@@ -3,7 +3,7 @@
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Known merupakan social group platform yang memungkinkan sejumlah pengguna untuk membuat sejumlah postingan, update status, foto dan banyak lagi. Known merupakan open source project yang dapat digunakan untuk membangun situs komunitas yang lengkap, atau blog untuk satu pengguna.
 
 
 ## Instalasi
