@@ -167,6 +167,16 @@ Cara menggunakan **Known** cukup mudah, karena tampilannya masih sederhana sehin
 ![halaman-akhir](https://raw.githubusercontent.com/ihsanfir/komdat-p2-5/main/image/halaman%20selesai.png)
 
 ## Pembahasan
+**Known** menggunakan bahasa `PHP` yang mendukung penggunaan MySQL, meskipun namanya terdengar awam tetapi terdapat beberapa kelebihan, diantaranya :
+- Aplikasi merupakan `opensource` sehingga dapat digunakan secara gratis, dan tentunya dapat di kustomisasi sesuai kebutuhan.
+- Dapat digunakan sebagai media sosial yang dikhususkan untuk sebuah komunitas.
+- Bisa digunakan sebagai blog probadi.
+- Dapat kustomisasi tema dengan mengupload css buatan sendiri.
+
+Meskipun memiliki beberapa kelebihan, tetapi terdapat beberapa kekurangan, diantaranya :
+- Pilihan tema yang disajikan masih terbilang sedikit dan sederhana
+- Plugin yang tersedia masih kurang powerfull
+- Kustomisasi tampilan terbilang cukup sulit jika hanya menggunakan upload file css untuk orang awam.
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
