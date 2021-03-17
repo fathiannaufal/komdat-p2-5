@@ -1,6 +1,9 @@
 # Aplikasi Web "Known"
 ![full_logo_blk](https://user-images.githubusercontent.com/60083946/111310174-5c2f9680-868f-11eb-9b66-655f14394381.png)
 
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:
+
 ## Anggota
 <table>
     <thead>
@@ -36,6 +39,8 @@
 
 ## Sekilas Tentang
 
+[`^ kembali ke atas ^`](#)
+
 **Known** merupakan social group platform yang memungkinkan sejumlah pengguna untuk membuat sejumlah postingan, update status, foto dan banyak lagi. Known merupakan open source project yang dapat digunakan untuk membangun situs komunitas yang lengkap, atau blog untuk satu pengguna.
 
 **Known** memiliki fitur antara lain :
@@ -49,6 +54,8 @@
 
 ## Instalasi
 
+[`^ kembali ke atas ^`](#)
+
 #### Kebutuhan sistem:
 - A Web Server that supports URL rewriting (Apache + mod_rewrite recommended).
 - If you are using Apache, you also need to make sure support for .htaccess is enabled (using the AllowOverride All directive).
@@ -56,6 +63,7 @@
 - MySQL 5+ / MariaDB or MongoDB. We recommend MySQL.
 
 #### Proses Instalasi :
+
 1. Login ke dalam vm lokal menggunakan ssh.
 ```
  $ ssh student@localhost -p 2200
@@ -109,33 +117,9 @@ FLUSH PRIVILEGES;"
     - Known berhasil di install
 ![5](https://github.com/ihsanfir/komdat-p2-5/blob/main/image/get-started.png)
 
-## Konfigurasi (opsional)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-
-##  Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
-
-## Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-
-
 ## Cara Pemakaian
+
+[`^ kembali ke atas ^`](#)
 
 Cara menggunakan **Known** cukup mudah, karena tampilannya masih sederhana sehingga mudah dipahami oleh pengguna. Meskipun sederhana tetapi terdapat plugin yang dapat diaktifkan. Berikut cara pemakaiannya :
 1. Tampilan awal setelah installasi berhasil, di sini kita sebagai admin.
@@ -167,6 +151,9 @@ Cara menggunakan **Known** cukup mudah, karena tampilannya masih sederhana sehin
 ![halaman-akhir](https://raw.githubusercontent.com/ihsanfir/komdat-p2-5/main/image/halaman%20selesai.png)
 
 ## Pembahasan
+
+[`^ kembali ke atas ^`](#)
+
 **Known** menggunakan bahasa `PHP` yang mendukung penggunaan MySQL, meskipun namanya terdengar awam tetapi terdapat beberapa kelebihan, diantaranya :
 - Aplikasi merupakan `opensource` sehingga dapat digunakan secara gratis, dan tentunya dapat di kustomisasi sesuai kebutuhan.
 - Dapat digunakan sebagai media sosial yang dikhususkan untuk sebuah komunitas.
@@ -178,13 +165,16 @@ Meskipun memiliki beberapa kelebihan, tetapi terdapat beberapa kekurangan, diant
 - Plugin yang tersedia masih kurang powerfull
 - Kustomisasi tampilan terbilang cukup sulit jika hanya menggunakan upload file css untuk orang awam.
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
-
+Jika dibandingkan dengan **Wordpress**, **Known** bisa dikatakan masih terbilang cukup jauh dalam. Berikut perbandingan antara keduanya :
+- **Wordpress** lebih familiar dikalangan masyarakat sedangkan **Known** masih belum cukup terkenal
+- Pada **Wordpress** terdapat banyak plugin yang dapat digunakan dan cukup powerfull sehingga memudahkan pengguna.
+- **Wordpress** mempunyai pilihan tema yangn banyak dan lebih modern, serta banyak orang-orang yang sering memperjual belikan temanya sedangkan **Known**, selain pilihan tema yang sedikit, kustomisasi yang digunakan juga hanya sebatas pada mengupload file css.
+- **Known** mungkin lebih fleksibel karena dapat digunakan untuk berbagai macam mode, sedangkan **Wordpress** harus menginstall beberapa plugin jika ingin merubah ke mode-mode lainnya.
+- Dalam proses instalasi, keduanya sangat mudah dan dapat dikatakan hampir mirip.
 
 ## Referensi
+
+[`^ kembali ke atas ^`](#)
 
 1. [About Known](https://withknown.com/) - Known
 2. [Known Documentation](http://docs.withknown.com/en/latest/install/requirements/) - Known
