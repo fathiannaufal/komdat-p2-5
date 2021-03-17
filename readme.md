@@ -157,6 +157,7 @@ Cara menggunakan **Known** cukup mudah, karena tampilannya masih sederhana sehin
 **Known** menggunakan bahasa `PHP` yang mendukung penggunaan MySQL, meskipun namanya terdengar awam tetapi terdapat beberapa kelebihan, diantaranya :
 - Aplikasi merupakan `opensource` sehingga dapat digunakan secara gratis, dan tentunya dapat di kustomisasi sesuai kebutuhan.
 - Dapat digunakan sebagai media sosial yang dikhususkan untuk sebuah komunitas.
+- Know memiliki fitur multi author.
 - Bisa digunakan sebagai blog probadi.
 - Dapat kustomisasi tema dengan mengupload css buatan sendiri.
 
