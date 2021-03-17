@@ -165,7 +165,7 @@ Meskipun memiliki beberapa kelebihan, tetapi terdapat beberapa kekurangan, diant
 - Plugin yang tersedia masih kurang powerfull
 - Kustomisasi tampilan terbilang cukup sulit jika hanya menggunakan upload file css untuk orang awam.
 
-Jika dibandingkan dengan **Wordpress**, **Known** bisa dikatakan masih terbilang cukup jauh dalam. Berikut perbandingan antara keduanya :
+Jika dibandingkan dengan **Wordpress**, **Known** bisa dikatakan masih terbilang cukup jauh. Berikut perbandingan antara keduanya :
 - **Wordpress** lebih familiar dikalangan masyarakat sedangkan **Known** masih belum cukup terkenal
 - Pada **Wordpress** terdapat banyak plugin yang dapat digunakan dan cukup powerfull sehingga memudahkan pengguna.
 - **Wordpress** mempunyai pilihan tema yangn banyak dan lebih modern, serta banyak orang-orang yang sering memperjual belikan temanya sedangkan **Known**, selain pilihan tema yang sedikit, kustomisasi yang digunakan juga hanya sebatas pada mengupload file css.
